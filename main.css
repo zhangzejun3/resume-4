@@ -24,6 +24,8 @@ h1,h2,h3,h4,h5,h6{ font-weight: normal; }
     transform: translateY(0);
   }
 }
+.icon { width: 1em; height: 1em; vertical-align: -0.15em; fill: currentColor; overflow: hidden; }
+
 .topNavBar { padding: 20px 0; position: fixed; top: 0; left: 0; width: 100%; 
   transition: all 0.5s; color: #b7b7b7;
 }
